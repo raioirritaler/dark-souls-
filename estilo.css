@@ -1,11 +1,11 @@
 body{
-background-color: cyan;
+background-color: rgb(241, 241, 7);
 font-size: 20px;
 text-align: center;
 
 }
 
 p{
-color: white;
+color: rgb(255, 2, 2);
 font-size: 16px;
 }
